@@ -186,13 +186,14 @@ textarea {
 @media (max-width: 767px) {
     .halph-width {
         width: 90%;
-        
+        float: none;
     }
     section{
         padding: 30px 0;
     }
     .services-box {
         width: 90%;
+        float: none;
     }
     
     input[type="text"] {
