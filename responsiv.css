@@ -1,0 +1,46 @@
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .halph-width {
+        width: 90%;
+        float: none;
+    }
+    section{
+        padding: 30px 0;
+    }
+    .services-box {
+        width: 90%;
+        float: none;
+    }
+    
+    input[type="text"] {
+        width: 85%;
+    }
+    
+    .exprince-full {
+        margin-bottom: 30px;
+    }
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .halph-width {
+        width: 90%;
+        float: none;
+    }
+    section{
+        padding: 30px 0;
+    }
+    .services-box {
+        width: 90%;
+        float: none;
+    }
+    
+    input[type="text"] {
+        width: 85%;
+    }
+    
+    .exprince-full {
+        margin-bottom: 30px;
+    }
+}
