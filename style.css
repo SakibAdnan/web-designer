@@ -1,0 +1,209 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #666;
+}
+h1, h2, h3, h4{
+    color: #000;
+}
+.text-hgilight{
+    color: orange;
+}
+.box-shadow{
+    box-shadow: 0 0 30px #ddd;
+    padding: 20px;
+}
+img{
+    width: 100%;
+}
+.bg-nerepeat    {
+    background-repeat: no-repeat;
+}
+
+section {
+    overflow: hidden;
+    padding: 50px 0;
+}
+
+.halph-width h1 {
+    font-size: 40px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.halph-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+a.box-btn {
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.Dream {
+    background-position: right;
+}
+
+.exprince {
+    background-position: left;
+}
+
+footer p {
+    text-align: center;
+}
+
+.exprince-full {
+    border-left: 5px solid #F9755E;
+}
+
+.exprince-wp {
+    border-left: 5px solid #0052FF;
+}
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #666;
+}
+h1, h2, h3, h4{
+    color: #000;
+}
+.text-hgilight{
+    color: orange;
+}
+.box-shadow{
+    box-shadow: 0 0 30px #ddd;
+    padding: 20px;
+}
+img{
+    width: 100%;
+}
+.bg-nerepeat    {
+    background-repeat: no-repeat;
+}
+
+section {
+    overflow: hidden;
+    padding: 50px 0;
+}
+
+.halph-width h1 {
+    font-size: 40px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.halph-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+a.box-btn {
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.Dream {
+    background-position: right;
+}
+
+.exprince {
+    background-position: left;
+}
+
+footer p {
+    text-align: center;
+}
+
+.exprince-full {
+    border-left: 5px solid #F9755E;
+}
+
+.exprince-wp {
+    border-left: 5px solid #0052FF;
+}
+.services-box {
+    margin-bottom: 30px;
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    border-left: 3px solid orange;
+}
+
+section.services {
+    background-position: right;
+}
+
+.contact-form {
+    width: 70%;
+    margin-left: 10%;
+    padding: 60px;
+}
+
+input[type="text"] {
+    width: 40%;
+    margin-left: 5%;
+    padding: 10px;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+textarea {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.contact-form button {
+    text-align: center;
+    display: inline-block;
+    background: orange;
+    padding: 15px 30px;
+    font-size: 15px;
+    border: navajowhite;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 15px;
+    font-weight: 700;
+}
+
+.contact-form {
+    text-align: center;
+}
+
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .halph-width {
+        width: 90%;
+        
+    }
+    section{
+        padding: 30px 0;
+    }
+    .services-box {
+        width: 90%;
+    }
+    
+    input[type="text"] {
+        width: 85%;
+    }
+    
+    .exprince-full {
+        margin-bottom: 30px;
+    }
+}
+
+
+
+section.hero-area.bg-nerepeat {}
